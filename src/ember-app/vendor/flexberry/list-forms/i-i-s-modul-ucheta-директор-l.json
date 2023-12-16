@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-modul-ucheta-директор-e",
+  "editForm": "i-i-s-modul-ucheta-директор-e",
+  "external": false,
+  "caption": "Директор",
+  "name": "IISModul_uchetaДиректорL",
+  "className": "ДиректорL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-modul-ucheta-директор",
+      "modelProjection": "ДиректорL"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+docker-compose -p modul_ucheta-java up -d

@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-modul-ucheta-расчет-времени-e",
+  "editForm": "i-i-s-modul-ucheta-расчет-времени-e",
+  "external": false,
+  "caption": "Расчет времени",
+  "name": "IISModul_uchetaРасчетВремениL",
+  "className": "РасчетВремениL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-modul-ucheta-расчет-времени",
+      "modelProjection": "РасчетВремениL"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Директор",
+  "name": "IISModul_uchetaДиректорE",
+  "className": "ДиректорE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-modul-ucheta-директор",
+      "modelProjection": "ДиректорE"
+    }
+  ]
+}
